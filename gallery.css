@@ -51,7 +51,7 @@
 
 .gallery {
   display: grid;
-  gap: 15px;
+  gap: 35px;
   margin:0 auto;
   justify-items: center;
 }
@@ -61,7 +61,7 @@
   height: 40px;
   margin:0 auto;
   margin-top: 40px;
-  margin-left: 150px;
+  margin-left: 40px;
   padding: 1px;
   border: 8px solid black;
   border-radius: 8px;
